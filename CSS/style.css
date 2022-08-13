@@ -5,7 +5,8 @@
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    
+    margin-top: 50px;
+    height: 400px;
 }
 
 .jide-img{
@@ -20,7 +21,6 @@
 width: 70%;
 float: left;
 color: #33475b;
-
 }
 
 .words{
@@ -53,7 +53,10 @@ color: #33475b;
         background: rgb(94, 200, 235);
     }
 
-body{
+
+
+.wrapper{
+    display: flex;
     background-color: #fc5a34;
     color: #fff;
     padding-left: 40px;
@@ -61,16 +64,12 @@ body{
     margin-top: 5px;
 }
 
-.wrapper{
-    display: flex;
-}
-
-h5 {
+.header-1 {
     font-family: verdana;
     font-weight: 600;
 }
 
-h1 {
+.header-2 {
     font-size: 50px;
     line-height: 1.1;
     padding-top: 0px;
@@ -81,7 +80,7 @@ h1 {
     font-family: Verdana;
 }
 
-button {
+.fuja-button {
     background-color: #fff;
     border: none;
     font-size: 1.125rem;
@@ -95,7 +94,7 @@ button {
     font-family: verdana;
 }
 
-img {
+.fuja-img {
     margin-top: 40px;
     width: 600px;
     position: absolute;
