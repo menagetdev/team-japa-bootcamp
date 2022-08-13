@@ -1,0 +1,17 @@
+.korede-container{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.korede-image{
+    width:50%;
+    float: left;
+}
+
+.korede-text{
+    width: 50%;
+    float: left;}
+   
+    button{
+        background: rgb(94, 200, 235);
+    }
