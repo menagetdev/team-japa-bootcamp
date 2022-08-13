@@ -15,3 +15,52 @@
     button{
         background: rgb(94, 200, 235);
     }
+
+body{
+    background-color: #fc5a34;
+    color: #fff;
+    padding-left: 40px;
+    font-family: Queens Medium,serif;
+    margin-top: 5px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+h5 {
+    font-family: verdana;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 1.1;
+    padding-top: 0px;
+}
+
+.paragraph {
+    line-height: 1.28rem;
+    font-family: Verdana;
+}
+
+button {
+    background-color: #fff;
+    border: none;
+    font-size: 1.125rem;
+    line-height: 1.78;
+    padding: 1rem 2.5rem;
+    font-weight: 600;
+    color: #2e475d;
+}
+
+.paragraph-2 {
+    font-family: verdana;
+}
+
+img {
+    margin-top: 40px;
+    width: 600px;
+    position: absolute;
+    margin-right: 30px;
+}
