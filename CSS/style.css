@@ -1,0 +1,35 @@
+
+
+.hub-container{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.jide-img{
+    width: 30%;
+    height: 250px;
+    float: left;
+
+
+}
+
+.jide-text{
+width: 70%;
+float: left;
+color: #33475b;
+
+}
+
+.words{
+    padding-top: 30px;
+    line-height: 24px;
+}
+
+
+
+.top-head{
+    color: blue;
+    width: 30%;
+}
