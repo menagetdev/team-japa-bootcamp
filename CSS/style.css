@@ -47,7 +47,9 @@ color: #33475b;
 
 .korede-text{
     width: 50%;
-    float: left;}
+    float: left;
+    font: normal 16px helvetica, Arial, Sans-serif
+}
    
     button{
         background: rgb(94, 200, 235);
