@@ -59,12 +59,11 @@ color: #33475b;
 
     .Learn-button:hover{
         cursor: pointer;
+
         opacity: 0.8;
     }
-<<<<<<< HEAD
-=======
 
->>>>>>> refs/remotes/origin/main
+
 .wrapper{
     display: flex;
     background-color: #fc5a34;
