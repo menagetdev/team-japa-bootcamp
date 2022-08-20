@@ -1,5 +1,11 @@
 
-
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+}
 
 .hub-container{
     width: 90%;
@@ -34,8 +40,9 @@ color: #33475b;
     margin-right: 5%;
 
 }
-.contact-info{
+.contact-infos{
     text-align: center;
+    justify-content: space-between;
 }
 
 .words{
@@ -43,6 +50,35 @@ color: #33475b;
     line-height: 24px;
 }
 
+/* new work */
+.section {
+    width: 100%;
+    display: flex;
+}
+
+.jide-image {
+    width: 400px;
+}
+
+.box {
+    margin: 30px;
+    margin-top: 5px;
+    padding: 50px;
+    line-height: 2rem;
+}
+
+.second-container {
+    margin: 30px;
+}
+
+.box-paragraph {
+    margin-top: 20px;
+}
+
+.contact-infos {
+    display: flex;
+    text-align: center;
+}
 
 
 .top-head{
