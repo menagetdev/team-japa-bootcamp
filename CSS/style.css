@@ -28,8 +28,6 @@ color: #33475b;
     line-height: 24px;
 }
 
-
-
 .top-head{
     color: blue;
     width: 30%;
@@ -67,8 +65,6 @@ color: #33475b;
         opacity: 0.8;
         ;
     }
-
-
 
 .wrapper{
     display: flex;
@@ -111,6 +107,6 @@ color: #33475b;
 
 .fuja-img {
     margin-top: 40px;
-    width: 450px;
+    width: 45git a0px;
     margin-right: 30px;
 }
