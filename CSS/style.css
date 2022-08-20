@@ -1,6 +1,3 @@
-
-
-
 .hub-container{
     width: 90%;
     margin-left: 5%;
@@ -65,11 +62,7 @@ color: #33475b;
     .Learn-button:hover{
         cursor: pointer;
         opacity: 0.8;
-        ;
     }
-
-
-
 .wrapper{
     display: flex;
     background-color: #fc5a34;
